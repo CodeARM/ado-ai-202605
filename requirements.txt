@@ -1,2 +1,2 @@
-# No external dependencies required for basic functionality
-# Python 3.7+ is required for this project
+# No external dependencies required for the To-Do List CLI app
+# Python 3.7+ is required
